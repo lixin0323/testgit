@@ -1,0 +1,12 @@
+1)Introduction 1page
+2)Related work 1page
+3)proposed idea 2page
+4)implementation 1page
+5)result,discussion
+6)conclution
+7)reference（20个www.ieee.org www.engineeringvillage.com）       
+5)6)7)共1page
+英文，按照ieee会议格式写，和毕业论文内容相关，9.15号之前发给老师
+
+
+
